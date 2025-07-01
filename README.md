@@ -1,2 +1,2 @@
 # Credit_card_fiancial_Dashboard
-Power Bi Dashboard using MySQL and Excel
+Credit Card Transaction and Customer Dashboard using Power BI , MySql, Excel..
